@@ -1,0 +1,1 @@
+const solidity_test  = require("./solidity/solidity_test")
